@@ -2,7 +2,7 @@
 
 Site de divulgação do TCC sobre nomenclatura e predição seletiva de interações medicamentosas. Apresenta os resultados do benchmark retrospectivo exploratório baseado na RENAME e no DDInter.
 
-**Acessar o site:** https://murilopedrazzani.github.io/tcc-nomes-e-ia-site/
+**Acessar o site:** https://murilopedrazzani.github.io/nomenclatura-interacoes/
 
 Este repositório contém exclusivamente a página pública e seus recursos. O código científico permanece em [tcc-nomenclatura-interacoes](https://github.com/MuriloPedrazzani/tcc-nomenclatura-interacoes), mantido separadamente.
 
